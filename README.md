@@ -1,6 +1,6 @@
 # Open Source Syringe Pump
 
-# Updated Publication based on this project: (Amarante et al., 2019) https://www.eneuro.org/content/eneuro/6/5/ENEURO.0240-19.2019.full.pdf
+### Updated Publication based on this project: (Amarante et al., 2019) https://www.eneuro.org/content/eneuro/6/5/ENEURO.0240-19.2019.full.pdf
 
 *Developed by Linda Amarante, Jonathan Newport, Megan Mitchell, Joshua Wilson, and Mark Laubach in the Center for Behavioral Neuroscience, Departments of Biology and Physics, and Design and Build Lab at American University.*
 
