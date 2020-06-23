@@ -1,5 +1,7 @@
 # Open Source Syringe Pump
 
+## Updated Publication based on this project: (Amarante et al., 2018) https://www.eneuro.org/content/eneuro/6/5/ENEURO.0240-19.2019.full.pdf
+
 *Developed by Linda Amarante, Jonathan Newport, Megan Mitchell, Joshua Wilson, and Mark Laubach in the Center for Behavioral Neuroscience, Departments of Biology and Physics, and Design and Build Lab at American University.*
 
 The neural basis of reward processing is a major topic in neuroscience. Many studies examine reward coding by varying the amount of fluid given to experimental animals as they perform a behavioral task. Most devices used in these studies are not capable of delivering different volumes over a common period of time. As such, reward coding is confounded by temporal information. To resolve this issue, we developed a syringe pump controller that is capable of delivering different fluid volumes, in the range used in behavioral studies, over common periods of time. Here, we report the designs of all components of the pump and the protocols needed to create and use it.
